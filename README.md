@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
