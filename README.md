@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
