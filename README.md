@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2050-count-good-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2050-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
