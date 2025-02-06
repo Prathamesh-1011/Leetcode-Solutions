@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Dynamic Programming
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
