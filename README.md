@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 ## Design
