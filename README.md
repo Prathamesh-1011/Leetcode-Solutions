@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0069-sqrtx) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -252,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2434-design-a-number-container-system) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
