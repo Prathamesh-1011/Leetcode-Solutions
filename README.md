@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [1364-tuple-with-same-product](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0090-subsets-ii) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Design
 |  |
