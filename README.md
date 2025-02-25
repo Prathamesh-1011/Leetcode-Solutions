@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [1364-tuple-with-same-product](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## String
 |  |
 | ------- |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Stack
 |  |
 | ------- |
