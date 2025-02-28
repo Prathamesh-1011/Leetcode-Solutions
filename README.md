@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [0227-basic-calculator-ii](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0227-basic-calculator-ii](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0812-rotate-string](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0812-rotate-string) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
