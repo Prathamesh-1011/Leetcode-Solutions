@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0279-perfect-squares](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [1013-fibonacci-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## String
@@ -324,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0292-nim-game) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
