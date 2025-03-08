@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0279-perfect-squares) |
+| [0343-integer-break](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [1013-fibonacci-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
