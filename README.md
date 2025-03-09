@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0371-sum-of-two-integers](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Hash Table
 |  |
