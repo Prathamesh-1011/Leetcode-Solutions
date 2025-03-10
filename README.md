@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Hash Table
 |  |
