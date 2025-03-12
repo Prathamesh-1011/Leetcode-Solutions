@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2050-count-good-numbers) |
+| [2083-three-divisors](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2083-three-divisors) |
 | [2448-count-number-of-bad-pairs](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -341,11 +342,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [2083-three-divisors](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2083-three-divisors) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [2083-three-divisors](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2083-three-divisors) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 ## Backtracking
 |  |
