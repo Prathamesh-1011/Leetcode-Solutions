@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [2793-count-the-number-of-complete-components](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Sliding Window
 |  |
@@ -428,10 +429,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0365-water-and-jug-problem](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0365-water-and-jug-problem) |
+| [2793-count-the-number-of-complete-components](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0365-water-and-jug-problem) |
+| [2793-count-the-number-of-complete-components](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Queue
 |  |
 | ------- |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2793-count-the-number-of-complete-components](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
 |  |
