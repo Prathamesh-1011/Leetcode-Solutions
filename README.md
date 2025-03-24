@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0372-super-pow](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0372-super-pow) |
 | [0400-nth-digit](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0372-super-pow](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0372-super-pow) |
 ## Counting
 |  |
 | ------- |
