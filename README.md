@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0609-find-duplicate-file-in-system](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0609-find-duplicate-file-in-system) |
 | [0792-binary-search](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0912-random-pick-with-weight](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0561-array-partition](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2681-put-marbles-in-bags](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2681-put-marbles-in-bags) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0561-array-partition](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0768-partition-labels](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [2032-largest-odd-number-in-string](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -575,4 +578,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
