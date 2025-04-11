@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2722-prime-in-diagonal](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2722-prime-in-diagonal) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2998-count-symmetric-integers](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Two Pointers
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2083-three-divisors](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2083-three-divisors) |
+| [2998-count-symmetric-integers](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2998-count-symmetric-integers) |
 ## Number Theory
 |  |
 | ------- |
