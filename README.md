@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0609-find-duplicate-file-in-system](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0609-find-duplicate-file-in-system) |
 | [0792-binary-search](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0792-binary-search) |
+| [0797-rabbits-in-forest](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0912-random-pick-with-weight](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0728-self-dividing-numbers) |
+| [0797-rabbits-in-forest](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0912-random-pick-with-weight](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [1013-fibonacci-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0609-find-duplicate-file-in-system](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0609-find-duplicate-file-in-system) |
 | [0768-partition-labels](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1364-tuple-with-same-product](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0768-partition-labels](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [2032-largest-odd-number-in-string](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2681-put-marbles-in-bags](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2681-put-marbles-in-bags) |
