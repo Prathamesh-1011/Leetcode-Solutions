@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0609-find-duplicate-file-in-system](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0609-find-duplicate-file-in-system) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0609-find-duplicate-file-in-system](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0609-find-duplicate-file-in-system) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [1364-tuple-with-same-product](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
