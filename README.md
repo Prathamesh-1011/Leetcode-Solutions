@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2298-count-integers-with-even-digit-sum](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2348-count-number-of-texts](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2348-count-number-of-texts) |
 | [2402-maximum-xor-after-operations](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2402-maximum-xor-after-operations) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2491-smallest-even-multiple) |
 | [2496-count-days-spent-together](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2496-count-days-spent-together) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-vowels-of-all-substrings](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2187-vowels-of-all-substrings) |
 | [2262-solving-questions-with-brainpower](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2348-count-number-of-texts](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2348-count-number-of-texts) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## String
 |  |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2491-smallest-even-multiple](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2491-smallest-even-multiple) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2722-prime-in-diagonal](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2722-prime-in-diagonal) |
@@ -557,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2187-vowels-of-all-substrings](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2187-vowels-of-all-substrings) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 ## Brainteaser
 |  |
