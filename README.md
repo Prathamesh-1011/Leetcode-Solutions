@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0202-happy-number) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0242-valid-anagram) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0372-super-pow](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0372-super-pow) |
@@ -652,5 +655,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
