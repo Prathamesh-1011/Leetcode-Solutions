@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0768-partition-labels](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -382,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0441-arranging-coins) |
