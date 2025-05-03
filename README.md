@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0768-partition-labels](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0868-push-dominoes](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0609-find-duplicate-file-in-system](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0609-find-duplicate-file-in-system) |
 | [0768-partition-labels](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0812-rotate-string) |
+| [0868-push-dominoes](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0868-push-dominoes) |
 | [1078-remove-outermost-parentheses](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
