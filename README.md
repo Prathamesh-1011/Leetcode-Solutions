@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0189-rotate-array) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0233-number-of-digit-one) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
@@ -477,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -559,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0139-word-break) |
 ## Enumeration
 |  |
 | ------- |
