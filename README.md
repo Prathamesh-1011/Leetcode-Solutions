@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2681-put-marbles-in-bags](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1500-count-largest-group) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2348-count-number-of-texts](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2348-count-number-of-texts) |
@@ -582,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2083-three-divisors](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2083-three-divisors) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 ## Number Theory
