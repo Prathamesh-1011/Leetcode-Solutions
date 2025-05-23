@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3647-zero-array-transformation-iii) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2402-maximum-xor-after-operations](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2402-maximum-xor-after-operations) |
 | [2478-longest-nice-subarray](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2478-longest-nice-subarray) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Hash Table
@@ -599,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2681-put-marbles-in-bags](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Trie
 |  |
@@ -733,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Binary Tree
 |  |
 | ------- |
