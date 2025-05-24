@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3194-find-words-containing-character](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2496-count-days-spent-together](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2496-count-days-spent-together) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3194-find-words-containing-character](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3447-clear-digits](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
