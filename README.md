@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0912-random-pick-with-weight](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
+| [0945-snakes-and-ladders](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1293-three-consecutive-odds) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0212-word-search-ii](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0221-maximal-square) |
+| [0945-snakes-and-ladders](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2722-prime-in-diagonal](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2722-prime-in-diagonal) |
 | [3227-find-missing-and-repeated-values](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0279-perfect-squares](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0365-water-and-jug-problem](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0365-water-and-jug-problem) |
+| [0945-snakes-and-ladders](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
