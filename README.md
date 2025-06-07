@@ -526,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0233-number-of-digit-one) |
@@ -826,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Monotonic Queue
 |  |
 | ------- |
