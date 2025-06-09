@@ -644,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0212-word-search-ii](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Enumeration
 |  |
 | ------- |
