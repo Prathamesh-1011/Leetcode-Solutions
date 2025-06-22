@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-vowels-of-all-substrings](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2187-vowels-of-all-substrings) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2348-count-number-of-texts](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2348-count-number-of-texts) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2496-count-days-spent-together](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2496-count-days-spent-together) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2298-count-integers-with-even-digit-sum) |
