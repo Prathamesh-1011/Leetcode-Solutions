@@ -783,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0365-water-and-jug-problem](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0386-lexicographical-numbers](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0386-lexicographical-numbers) |
+| [0543-diameter-of-binary-tree](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
@@ -830,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -841,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Search Tree
 |  |
