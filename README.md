@@ -832,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -844,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Search Tree
 |  |
@@ -851,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 ## Counting Sort
 |  |
 | ------- |
