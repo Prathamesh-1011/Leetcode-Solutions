@@ -945,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-queries-quality-and-percentage](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1415-students-and-examinations) |
+| [1480-movie-rating](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1827-invalid-tweets](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1827-invalid-tweets) |
