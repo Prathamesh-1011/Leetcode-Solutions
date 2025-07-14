@@ -4,12 +4,17 @@ class Solution {
             return false;
         }
         
-        char[] sArray = s.toCharArray();
-        char[] tArray = t.toCharArray();
-        
-        Arrays.sort(sArray);
-        Arrays.sort(tArray);
-        
-        return Arrays.equals(sArray, tArray);
+        int[] count = new int[256];
+        for(int i = 0; i < s.length(); i++){
+            count[s.charAt(i)]++;
+            count[t.charAt(i)]--;
+        }
+
+        for(int c : count){
+            if(c != 0){
+                return false;
+            }
+        }
+        return true;
     }
 }
