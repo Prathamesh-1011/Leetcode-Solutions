@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0912-random-pick-with-weight](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0868-push-dominoes) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
