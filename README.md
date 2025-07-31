@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0091-decode-ways) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
