@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0797-rabbits-in-forest](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [0912-random-pick-with-weight](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [1013-fibonacci-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0609-find-duplicate-file-in-system](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0609-find-duplicate-file-in-system) |
 | [0768-partition-labels](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
+| [0900-reordered-power-of-2](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
@@ -668,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -785,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [0900-reordered-power-of-2](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2083-three-divisors](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2083-three-divisors) |
