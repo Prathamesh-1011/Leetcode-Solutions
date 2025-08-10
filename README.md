@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
@@ -885,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0279-perfect-squares](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0945-snakes-and-ladders](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
