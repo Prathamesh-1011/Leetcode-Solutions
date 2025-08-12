@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2478-longest-nice-subarray) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2529-range-product-queries-of-powers](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2551-apply-operations-to-an-array](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2402-maximum-xor-after-operations](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2402-maximum-xor-after-operations) |
 | [2478-longest-nice-subarray](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2478-longest-nice-subarray) |
+| [2529-range-product-queries-of-powers](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -726,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-random-pick-with-weight](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2529-range-product-queries-of-powers](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2571-find-the-pivot-integer](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2571-find-the-pivot-integer) |
 | [2915-count-of-interesting-subarrays](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
