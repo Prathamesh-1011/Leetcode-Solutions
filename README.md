@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0806-domino-and-tromino-tiling](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0826-soup-servings) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0415-add-strings) |
+| [0516-longest-palindromic-subsequence](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0609-find-duplicate-file-in-system](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0609-find-duplicate-file-in-system) |
 | [0768-partition-labels](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0812-rotate-string) |
