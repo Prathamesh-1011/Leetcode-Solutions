@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0797-rabbits-in-forest](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [0912-random-pick-with-weight](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [1013-fibonacci-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0806-domino-and-tromino-tiling](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0967-minimum-falling-path-sum) |
@@ -724,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0867-new-21-game](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0867-new-21-game) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -1111,4 +1114,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
