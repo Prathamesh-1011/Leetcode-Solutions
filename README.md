@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2722-prime-in-diagonal](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2722-prime-in-diagonal) |
 | [3227-find-missing-and-repeated-values](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
@@ -778,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -1129,4 +1133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0826-soup-servings](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0867-new-21-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
