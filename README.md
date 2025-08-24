@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -747,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0867-new-21-game](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0867-new-21-game) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2478-longest-nice-subarray) |
