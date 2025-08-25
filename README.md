@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0561-array-partition) |
@@ -644,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0212-word-search-ii](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0221-maximal-square) |
+| [0498-diagonal-traverse](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0415-add-strings) |
+| [0498-diagonal-traverse](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
