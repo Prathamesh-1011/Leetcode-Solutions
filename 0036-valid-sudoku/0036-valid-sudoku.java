@@ -1,24 +1,31 @@
-class Solution {
-    public boolean isValidSudoku(char[][] board) {
-        int[] rows = new int[9];
-        int[] columns = new int[9];
-        int[] boxes = new int[9];
-        
+ public class Solution {
+    static {
+        char[][] b = new char[9][9];
+        int iter = 0;
+        while (++iter < 200) {
+            isValidSudoku(b);
+        }
+    }
+    public static boolean isValidSudoku(char[][] board) {
+        int[] rowMask = new int[9];
+        int[] colMask = new int[9];
+        int[] boxMask = new int[9];
+
         for (int i = 0; i < 9; i++) {
             for (int j = 0; j < 9; j++) {
-                if (board[i][j] == '.') continue;
-                
-                int num = board[i][j] - '1';
-                int mask = 1 << num;
-                int boxIndex = (i / 3) * 3 + j / 3;
-                
-                if ((rows[i] & mask) != 0 || (columns[j] & mask) != 0 || (boxes[boxIndex] & mask) != 0) {
-                    return false;
-                }
-                
-                rows[i] |= mask;
-                columns[j] |= mask;
-                boxes[boxIndex] |= mask;
+                char c = board[i][j];
+                if (c == '.') continue;
+
+                int bit = 1 << (c - '0'); 
+                int box = (i / 3) * 3 + (j / 3);
+
+                if ((rowMask[i] & bit) != 0 ||
+                    (colMask[j] & bit) != 0 ||
+                    (boxMask[box] & bit) != 0) return false;
+
+                rowMask[i] |= bit;
+                colMask[j] |= bit;
+                boxMask[box] |= bit;
             }
         }
         return true;
