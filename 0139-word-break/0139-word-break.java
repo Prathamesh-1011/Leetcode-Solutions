@@ -1,21 +1,17 @@
 class Solution {
     public boolean wordBreak(String s, List<String> wordDict) {
-        Map<String, Boolean> memo = new HashMap<>();
-        Set<String> wordSet = new HashSet<>(wordDict);
-        return dfs(s, wordSet, memo);
+        Boolean[] dp = new Boolean[s.length()+1];
+        return backtrack(s,wordDict,dp,0);
     }
-    
-    private boolean dfs(String s, Set<String> wordSet, Map<String, Boolean> memo) {
-        if (memo.containsKey(s)) return memo.get(s);
-        if (wordSet.contains(s)) return true;
-        for (int i = 1; i < s.length(); i++) {
-            String prefix = s.substring(0, i);
-            if (wordSet.contains(prefix) && dfs(s.substring(i), wordSet, memo)) {
-                memo.put(s, true);
-                return true;
-            }
+
+    private boolean backtrack(String s,List<String> wordDict,Boolean[] dp,int index){
+        if(index == s.length()) return true;
+        if(dp[index] != null) return dp[index];
+        for(int i=0;i<wordDict.size();i++){
+            String word = wordDict.get(i);
+            if(s.startsWith(word,index))
+                if(backtrack(s,wordDict,dp,index+word.length())) return true;
         }
-        memo.put(s, false);
-        return false;
+        return dp[index] = false;
     }
 }
