@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0283-move-zeroes) |
@@ -806,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0912-random-pick-with-weight](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
