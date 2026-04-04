@@ -538,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -771,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Prathamesh-1011/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
